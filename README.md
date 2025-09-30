@@ -1,5 +1,7 @@
 RUMBO - Landing Page
 
+[**Visitar sitio web**](https://manuel5890.github.io/rumbo-practica-html-css/)
+
 RUMBO es una landing page diseñada para promocionar planes turísticos y destinos en Colombia.  
 El sitio busca transmitir una experiencia clara, atractiva y fácil de navegar para usuarios que deseen cotizar o conocer más sobre los servicios.
 
@@ -12,12 +14,6 @@ Secciones principales
 - **Destinos** → Principales lugares turísticos (Cartagena, Barranquilla, Llanos Orientales, La Guajira).  
 - **Contacto** → Formulario para registrar datos y recibir información.  
 - **Footer** → Datos de contacto de la empresa.  
-
----
-
-Demo en línea
-
-[**Visitar sitio web**](https://manuel5890.github.io/rumbo-practica-html-css/)
 
 ---
 
